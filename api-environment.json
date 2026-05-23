@@ -1,0 +1,484 @@
+{
+	"id": "5855ff17-0c44-4f61-b9b4-7b22a096fbbf",
+	"name": "AstroInsight API",
+	"values": [
+		{
+			"key": "BASE_URL",
+			"value": "https://json.astroinsightapi.com/api/v1",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "LANGUAGE",
+			"value": "en",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ACCEPT",
+			"value": "application/json",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "CONTENT-TYPE",
+			"value": "application/json",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Ayanamsha",
+			"value": "lahiri",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "day",
+			"value": "15",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "month",
+			"value": "9",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "year",
+			"value": "1994",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "hour",
+			"value": "12",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "min",
+			"value": "30",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "sec",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "tzone",
+			"value": "5.5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lat",
+			"value": "28.6139",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lon",
+			"value": "77.1025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "chartStyle",
+			"value": "north",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bgColor",
+			"value": "#FFFEC9",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "innerLineColor",
+			"value": "#FFC000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "outerLineColor",
+			"value": "#FFC000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "signColor",
+			"value": "#FF0000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "innerLineWidth",
+			"value": "2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "outerLineWidth",
+			"value": "5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "signFontSize",
+			"value": "15",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "planetFontSize",
+			"value": "15",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "signSymbol",
+			"value": "N",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "name",
+			"value": "Pankaj",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "gender",
+			"value": "MALE",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "planetAshtakPlanet",
+			"value": "sun",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "planetSymbol",
+			"value": "N",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "chartSize",
+			"value": "350",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "planetColor",
+			"value": "#0000FF",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_day",
+			"value": "15",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_month",
+			"value": "9",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_year",
+			"value": "1994",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_hour",
+			"value": "12",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_min",
+			"value": "30",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_sec",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_tzone",
+			"value": "5.5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_tzone",
+			"value": "5.5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_day",
+			"value": "15",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_month",
+			"value": "7",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_year",
+			"value": "1995",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_hour",
+			"value": "12",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_sec",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_lat",
+			"value": "28.6139",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_lat",
+			"value": "28.6139",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "m_lon",
+			"value": "77.1025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_lon",
+			"value": "77.1025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "f_min",
+			"value": "30",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "varshaphal_year",
+			"value": "2026",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "varshaphalYear",
+			"value": "2025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cTzone",
+			"value": "5.5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cLon",
+			"value": "77.1025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cLat",
+			"value": "28.6139",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "nodeType",
+			"value": "true",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "houseType",
+			"value": "placidus",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Node-Type",
+			"value": "true_node",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_day",
+			"value": "15",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_month",
+			"value": "9",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_year",
+			"value": "1994",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_hour",
+			"value": "12",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "CLIENT_ID",
+			"value": "CLIENT_ID",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "CLIENT_SECRET",
+			"value": "CLIENT_SECRET",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "swastikStatus",
+			"value": "Y",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "swastikColor",
+			"value": "#FFC000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "swastikStrokeColor",
+			"value": "#FF0000",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "swastikStrokeWidth",
+			"value": "2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_sec",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_lat",
+			"value": "28.6139",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_lon",
+			"value": "77.1025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "p_tzone",
+			"value": "5.5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_day",
+			"value": "28",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_month",
+			"value": "3",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_year",
+			"value": "1995",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_hour",
+			"value": "12",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_min",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_sec",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_lat",
+			"value": "28.6139",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "s_lon",
+			"value": "77.1025",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "solarYear",
+			"value": "2026",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-23T13:18:09.102Z",
+	"_postman_exported_using": "Postman/12.11.6"
+}
